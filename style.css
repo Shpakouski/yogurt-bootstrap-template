@@ -39,4 +39,15 @@ h1 {
     .farm-image {
         transform: scale(1.12);
     }
+
+    .card {
+        margin: 1rem auto;
+    }
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active {
+    background-color: #00BBC9 !important;
+    border-color: #00BBC9 !important;
 }
