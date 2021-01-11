@@ -28,3 +28,15 @@ h1 {
 .btn-outline-light:hover {
     background-color: rgba(255, 255, 255, 0.2);
 }
+
+@media (max-width: 767.98px) {
+    .farm-image {
+        transform: scale(1.06);
+    }
+}
+
+@media (max-width: 575.98px) {
+    .farm-image {
+        transform: scale(1.12);
+    }
+}
